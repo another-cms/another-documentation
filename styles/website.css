@@ -15,7 +15,7 @@
     margin-right: 27px;
 }
 
-.http-block .type {
+.http-block .request {
     color: #fff;
 }
 .http-block.http-get .type,
