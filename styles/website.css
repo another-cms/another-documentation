@@ -1,3 +1,5 @@
+/************* HTTP BLOCKS **************/
+
 .http-block {
     display: flex;
     align-items: center;
@@ -17,8 +19,20 @@
 
 .http-block .request {
     color: #fff;
+    letter-spacing: 1px;
 }
+
+
+// GET request
 .http-block.http-get .type,
 .http-block.http-get .request b {
      color: #14c914;
+     border-color: #14c914;
+}
+
+// POST request
+.http-block.http-get .type,
+.http-block.http-post .request b {
+    color: #ff9800;
+    border-color: #ff9800;
 }
