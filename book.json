@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [ "theme-api", "./plugin.js"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
