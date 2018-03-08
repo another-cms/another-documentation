@@ -13,3 +13,7 @@
 
 * [Defining Methods](methods.md)
 
+## Doc tools
+
+* [References](doc-tools/references.md)
+

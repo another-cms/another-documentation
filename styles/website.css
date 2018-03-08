@@ -1,0 +1,21 @@
+.http-block {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: #536171;
+    padding: 10px;
+}
+
+.http-block .type {
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 2px 7px;
+    font-weight: 700;
+    color: #eee;
+    margin-right: 27px;
+}
+
+.http-block.http-get .type,
+.http-block.http-get .request b {
+     color: #14c914;
+}
