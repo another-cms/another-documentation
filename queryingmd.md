@@ -2,7 +2,7 @@
 
 
 
-<div class="http-block">
+<div class="http-block http-get">
     <div class="type">
         GET
     </div>
