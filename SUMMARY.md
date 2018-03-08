@@ -5,7 +5,7 @@
 * [Getting started](README.md)
 * [Data objects](api-reference.md)
 * [Authentication](authentication.md)
-* Operators
+* [Operators](operators.md)
 * [Querying](querying.md)
 * GLOSSARY
 
