@@ -6,7 +6,8 @@
 * [Data objects](api-reference.md)
 * [Authentication](authentication.md)
 * Operators
-* Filters
+* [Querying](querying.md)
+* GLOSSARY
 
 ## API reference
 
