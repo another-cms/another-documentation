@@ -1,6 +1,5 @@
 
 
-
 Content types
 
 Entries
@@ -18,7 +17,6 @@ Assets
 
 
 Links
-
 
 
 

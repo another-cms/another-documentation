@@ -4,8 +4,8 @@
 
 * [Getting started](README.md)
 * [Authentication](authentication.md)
-* [GLOSSARY](glossary.md)
-* [Querying](queryingmd.md)
+* [Glossary](GLOSSARY.md)
+* [Querying](querying.md)
 
 ## API reference
 
